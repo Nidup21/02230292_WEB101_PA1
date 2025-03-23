@@ -25,12 +25,12 @@ This is a simple Airbnb clone built with React and Tailwind CSS. The application
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/airbnb-clone.git
+    git clone https://github.com/Nidup21/02230292_WEB101_PA1.git
     ```
 
 2. Navigate to the project directory:
     ```bash
-    cd airbnb-clone
+    cd 02230292_WEB101_PA1
     ```
 
 3. Install dependencies:
